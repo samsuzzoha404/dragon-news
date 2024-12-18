@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6O3JNBylobYryHbyakwOtJ_WX8lHitEjQg&s",
+    "title": "Tech Giants Launch New AI Model to Revolutionize Industries",
+    "category": "Technology",
+    "date": "Sep 12, 2023"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/OCzzN8VZgfY/maxresdefault.jpg",
+    "title": "Top 10 Destinations to Visit in 2024: A Traveler's Guide",
+    "category": "Travel",
+    "date": "Nov 5, 2023"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKOjUIeJ_xsFx5gdhjUYmKw1m4PiQutNFcQ&s",
+    "title": "New Breakthrough in Cancer Research Brings Hope to Millions",
+    "category": "Health",
+    "date": "Oct 20, 2023"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://images.csmonitor.com/csm/2020/12/1113583_1_1231%20Fearless%20Girl_standard.jpg?alias=standard_900x600",
+    "title": "Stock Market Sees Record Highs Amid Economic Growth",
+    "category": "Finance",
+    "date": "Aug 15, 2023"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://images.stockcake.com/public/4/3/e/43e45d34-5d02-4286-ab43-f24aba513ec0_large/elegant-gourmet-dish-stockcake.jpg",
+    "title": "Chefs Reveal Secrets Behind the Perfect Gourmet Dish",
+    "category": "Food",
+    "date": "Jul 18, 2023"
+  }
+]
