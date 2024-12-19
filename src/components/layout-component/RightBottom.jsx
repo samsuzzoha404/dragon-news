@@ -1,8 +1,17 @@
 const RightBottom = () => {
   const cardData = [
-    { title: "Swimming", img: "https://vmrw8k5h.tinifycdn.com/news/wp-content/uploads/2021/03/kelly-pash-texas--1024x683.jpg"},
-    { title: "Class", img: "https://media.istockphoto.com/id/170036830/photo/students-at-the-lecture.jpg?s=612x612&w=0&k=20&c=DgJcrCRpj83Uc55daWfv2JEFH_fn4OeyUdr9PODBqxg=" },
-    { title: "Play Ground", img: "https://adventureworldplaysets.com/wp-content/uploads/2022/01/54142-PKG-D48-1-Large.jpg" },
+    {
+      title: "Swimming",
+      img: "https://vmrw8k5h.tinifycdn.com/news/wp-content/uploads/2021/03/kelly-pash-texas--1024x683.jpg",
+    },
+    {
+      title: "Class",
+      img: "https://media.istockphoto.com/id/170036830/photo/students-at-the-lecture.jpg?s=612x612&w=0&k=20&c=DgJcrCRpj83Uc55daWfv2JEFH_fn4OeyUdr9PODBqxg=",
+    },
+    {
+      title: "Play Ground",
+      img: "https://adventureworldplaysets.com/wp-content/uploads/2022/01/54142-PKG-D48-1-Large.jpg",
+    },
   ];
 
   return (
